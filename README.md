@@ -19,7 +19,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : https://github.com/nikoponya/CMI24/blob/main/casa.jpg 
 
 (insertar imágenes a resolucion de 100px alto)
 
