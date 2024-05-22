@@ -9,11 +9,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : PARANOIA
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Nikolai Talavera Pérez
 
 **Resumen** : lorem ipsun dolor.... 
 
