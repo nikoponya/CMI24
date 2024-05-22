@@ -3,7 +3,8 @@
 (Basado en Repositorio CMI24, incluye card personal)
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
-casa.jpg
+https://github.com/nikoponya/CMI24/blob/main/casa.jpg
+
 
 # 1 Datos 
 
