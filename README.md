@@ -3,7 +3,7 @@
 (Basado en Repositorio CMI24, incluye card personal)
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
-
+https://github.com/nikoponya/CMI24/blob/main/casa.jpg
 
 # 1 Datos 
 
@@ -20,7 +20,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
 **Logotipo** : 
-https://github.com/nikoponya/CMI24/blob/main/casa.jpg 
 
 (insertar imágenes a resolucion de 100px alto)
 
