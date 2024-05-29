@@ -12,13 +12,13 @@ https://github.com/nikoponya/CMI24/blob/main/casa.jpg
 
 **Titulo** : PARANOIA
 
-**Web:**   https://    (url github.io)
+**Web:**   https://nikoponya.github.io/ 
 
 **Autor:**  Nikolai Talavera Pérez
 
 **Resumen** : lorem ipsun dolor.... 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego point and click.
 
 **Logotipo** : 
 
@@ -26,7 +26,7 @@ https://github.com/nikoponya/CMI24/blob/main/casa.jpg
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  Google Chrome.
 
 **Tamaño proyecto:** XXMB 
 
@@ -37,9 +37,6 @@ https://github.com/nikoponya/CMI24/blob/main/casa.jpg
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
-
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
