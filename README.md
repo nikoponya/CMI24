@@ -49,15 +49,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![diagrama](https://github.com/nikoponya/nikoponya.github.io/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
 
 
 # 3. Metodología
