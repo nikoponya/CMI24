@@ -20,11 +20,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px.
 
-**Probado en:**  Google Chrome.
+**Probado en:**  PC.
 
 **Tamaño proyecto:** XXMB 
 
@@ -32,11 +31,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : xx/xx/2024
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
-- Github:
+- Github: nikoponya.github.io
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -60,9 +58,9 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo**
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
+- idea principal-> antiguo horror rpg (ao oni) (corpse party) y algunas películas de miedo-> the conjuring, etc
 - 
 
 
@@ -124,7 +122,10 @@ Este  proyecto es interesante porque ...
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate.
+- IbisPaint.
+- Capcut.
+- Pixabay.
 
 
 
