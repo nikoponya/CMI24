@@ -20,6 +20,7 @@ Mariam decide cubrir la historia de lo que pasó años atrás en una casa que ah
 **Estilo/género:**  Juego point and click.
 
 **Logotipo** : 
+
 ![logo](https://github.com/nikoponya/nikoponya.github.io/blob/main/IMG_1743.PNG)
 
 
