@@ -28,7 +28,7 @@ Mariam decide cubrir la historia de lo que pasó años atrás en una casa que ah
 
 **Probado en:**  Microsoft Edge, Google Chrome e Hippani Animator 5.
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 33MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
