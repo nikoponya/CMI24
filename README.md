@@ -14,7 +14,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Nikolai Talavera Pérez
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : "PARANOIA" narra la historia de dos compañeras de piso: Mariam, que tiene que hacer un proyecto de investigación para la universidad, y Olivia, que le va a ayudar.
+Mariam decide cubrir la historia de lo que pasó años atrás en una casa que ahora yace abandonada, sin embargo, al entrar en esta, lo que se encuentran las dos compañeras es algo mucho más turbio de lo que se esperaban.
 
 **Estilo/género:**  Juego point and click.
 
