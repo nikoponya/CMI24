@@ -124,6 +124,8 @@ En general, estoy satisfecho con lo que he hecho, sin embargo, si tuviera la  po
 - Pixabay.
 
 
+![portada](https://github.com/nikoponya/nikoponya.github.io/blob/main/portada.png)
+
 
 https://creativecommons.org/licenses/?lang=es
 
