@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : PARANOIA
 
-**Web:**   https://nikoponya.github.io/export
+**Web:**   https://nikoponya.github.io
 
 **Autor:**  Nikolai Talavera Pérez
 
