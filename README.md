@@ -93,7 +93,7 @@ Este  proyecto es interesante porque presenta una historia intrigante y una mec�
 ### Etapa 3: Problemas identificados
 He identificado varios problemas, sobretodo relacionados con los videojuegos más "complejos", por así decirlo, y el uso de variables.
 En primer lugar, en el html, el minijuego de completar el puzle con las piezas rotas del espejo, hay veces que, una vez lo completas, no te pasa directamente a la siguiente escena. Este fallo no sé por qué ocurre, pues aparece de forma aleatoria y dentro del programa no pasa nunca.
-Por otro lado, en el último minijuego, que determina qué final vas a conseguir, en el html no funciona, mientras que dentro del programa sí. He revisado muchas veces el código y no he podido encontrar ninguna causa directa. Este problema lo he solventado incorporando 3 botones, a esa escena, que cada uno te lleva a un final distinto.
+Los distintos fallos que había encontrado, sobre todo en cuanto a las variables, los he ido arreglando poco a poco.
 
 
 # 4. Conclusiones 
@@ -108,10 +108,6 @@ En general, estoy satisfecho con lo que he hecho, sin embargo, si tuviera la  po
 
 
 # 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
@@ -128,8 +124,6 @@ En general, estoy satisfecho con lo que he hecho, sin embargo, si tuviera la  po
 - Pixabay.
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
